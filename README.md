@@ -1,2 +1,4 @@
 # Bookstore-Application
-Simple Bookstore Application built using Java
+
+A simple Book Store Application that is graphical user interface (GUI) based and built using Java.
+
